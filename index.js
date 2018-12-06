@@ -1,0 +1,1 @@
+var server = 'https://hola-que-hace.cl';
